@@ -3,7 +3,7 @@ layout: post
 title: DAG
 ---
 
-## Microtransactions : 
+## Microtransactions 
 
 L’une des promesses de la blockchain a été de permettre les microtransactions. ie des transactions beaucoup plus fréquentes et de très faible valeur. A ce jour, la technologie a échoué à délivrer cette promesse.  
 Les frais de transactions pour la blockchain Bitcoin sont de l’ordre de quelques dizaines de centimes, et bien que cela soit un très faible prix à payer pour effectuer de larges transactions. Il n’est pas logique de payer des dizaines de centimes pour envoyer 5 centimes. 
