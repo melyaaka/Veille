@@ -11,4 +11,4 @@ La technologie de Blockchain est aussi un sujet évoluant extrêmement vite, mê
 Nous commençons par la définition de la blockchain (1.0) avant d’explorer la blockchain 2.0 et 3.0  
 Il a été difficile de trouver un consensus sur quelques définitions. Quelques personnes considèrent par exemple que la blockchain 3.0 désigne une technologie qui résout les limitations de la blockchain 1.0 à savoir la vitesse, la scalabilité et la facilité de développement (actuellement effectuée par des Forks). D’autres personnes dénomment blockchain 3.0 une toute autre technologie connue sous le nom de DAG (directed acyclic graph). C’est pour cette raison que nous abordons cette technologie concurrente vers la fin. 
 
-
+![blockchain](/Images/Picture1.png/)
