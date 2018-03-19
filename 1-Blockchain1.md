@@ -26,7 +26,7 @@ On peut voir comment à un niveau d’explication très basique un système de c
 
 Ceci est une première explication simple de ce qu’est la blockchain 1.0, mais comment vérifie-t-on que le propriétaire veut bien faire effectuer la transaction et non pas un imposteur ? 
 
-#### Transactions valides
+### Transactions valides
 
 On utilise pour cela de la cryptographie, chaque utilisateur possède une <strong>clé privée</strong>. Cette clé privée est associée à une <strong>clé publique</strong> connue de tout le monde. 
 Pour déclarer une transaction, l’utilisateur génère une <strong>signature</strong> pour prouver qu’il est le possesseur du compte grâce à la clé privée et le message de la transaction “Alice —> Bob 5.0 BTC”. Cette signature a la même utilité que la signature sur un chèque bancaire.  
@@ -36,7 +36,7 @@ La seconde vérification qui est effectuée est de voir si l’utilisateur envoy
 
 ![blockchain](/Images/Picture2.png/)
 
-#### Double Spending
+### Double Spending
 
 Tout ceci se fait dans un environnement où il n’y a aucune confiance entre les utilisateurs. Et comme on peut s’y attendre dans un environnement sans confiance, quelques individus essayerons de tricher le système. Toutes les tentatives de fraudes se ramènent plus ou moins à ce qu’on appelle un Double Spending. L’idée c’est qu’un utilisateur essaie de dépenser son argent deux fois.  
 De par la nature d’un réseau, si un utilisateur envoie deux transactions valides (cad avec une signature valide) en même temps, elle peuvent arriver dans un ordre différent dans des noeuds différents de réseau.   
@@ -45,7 +45,7 @@ Il se peut donc que la moitié du réseau reçoit la transaction vers Bob en pre
 
 Comment fait-on dans cette situation ? 
 
-#### Algorithme de Consensus
+### Algorithme de Consensus
 
 On a déjà un consensus pour savoir si une transaction est valide ou non (expliqué plus haut). Mais il faut aussi établir un consensus sur <strong>l’ordre</strong> de réception des transactions. C’est de là que nait l’idée de bloc.   
 Un bloc est un ensemble de transactions réunies ensemble. L’idée est qu’au lieu d’enregistrer les transactions une par une au risque d’avoir des conflits sur l’ordre de leur réception. On enregistre les transactions dans un bloc, et on décide de laisser du temps entre deux blocs successifs (par exemple 10 minutes par blocs pour le Bitcoin)
@@ -59,7 +59,7 @@ Le registre n’est donc plus une succession de transactions, mais plutôt une s
 
 Qui construit les blocs ? Comment décide-t-on du prochain bloc dans la blockchain ? 
 
-#### Mineurs
+### Mineurs
 
 Quelques utilisateurs appelés <strong>mineurs</strong> se donnent la tache de construire les blocs en échange d’une récompense. A tout instant t, il existe un ensemble de transactions non confirmées appelé <strong>transaction pool</strong>. Ces transactions attendent d’être incluses dans un bloc pour qu’elles soient validées. Un mineur choisit parmi ces transactions pour construire <em>son</em> bloc.  
 Les transactions font inclure parfois des frais pour récompenser les mineurs et pour encourager ceux-ci à sélectionner la transaction, donc naturellement les mineurs sélectionnent les transactions avec les plus grands frais. Si le bloc contruit pas un certain mineur est choisi, il gagne tout les frais des transactions dans le bloc, en plus des nouveau Bitcoins sont créés spécialement pour le mineur pour le récompenser de son travail.  
@@ -71,7 +71,7 @@ En même temps, tout les autres noeuds (mineurs ou non) font inclure le nouveau 
 
 <strong>Le consensus consiste à accepter le bloc du mineur ayant gagné la loterie</strong>
 
-#### Proof of Work
+### Proof of Work
 
 Il est possible d'augmenter ses chances de gagner car le système de loterie est en réalité un problème de calcul (Proof of Work) à résoudre.  
 Il faut deviner une certaine chaine de caractère qui permet de résoudre un problème cryptographique. Ce problème dépend du bloc précédent dans la chaine. Donc <em>il ne peut être résolu au préalable</em>, ce qui permet d’éviter les fraudes (cherchez Attaque des 51% pour plus d'information).    
@@ -105,7 +105,7 @@ Voici quelques avantages des monnaies décentralisées comme Bitcoin :
 
 Une question intéréssante qu'on pourrait se poser. En quoi Bitcoin est il différent de systèmes de paiement tel que Paypal ? 
 
-#### Quelle différence entre Bitcoin et Paypal ?
+### Quelle différence entre Bitcoin et Paypal ?
 
 Voici une comparaison : 
 
