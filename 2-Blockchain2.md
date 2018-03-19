@@ -24,7 +24,7 @@ Ethereum a développé un langage appelé <strong>Solidity</strong> qui permet d
 En pratique, les contrats sont des programmes auxquels on confie des biens. Ils respectent certaines <em>conditions</em> et <em>déclencheurs</em>. Après la vérification des conditions, les biens sont transmis comme convenu.  
 > L'exemple le plus proche qu'on connait est celui de machine à café : Le contrat concerne ici l'échange de monnaie contre un café. La machine ne peut executer le contrat qu'après une condition qui est ici le paiement
 
-![blockchain](/Images/Picture9.png/)
+![blockchain](/Images/Picture20.png/)
 ￼
 ### Exemples de contrats : 
 
@@ -35,6 +35,7 @@ Voici quelques vrais exemples de contrats intelligents possibles :
 * Vente en ligne : Paiement envoyé quand le colis est reçu
 * Location : Le locataire reçoit une clé d’accès à l’appartement de manière automatique par un smart contract après avoir payé le loyer pour le mois courant. 
 ￼
+![blockchain](/Images/Picture9.png/)
 
 Un autre cas d’utilisation très intéressant est la <strong>smart property</strong>. C’est tout simplement un bien ayant accès à la blockchain. Par exemple une voiture dont la propriété est représenté par un bien numérique. Cette voiture est connectée à Internet et a accès au statut du bien digital qui la représente. Si celui-ci change, la voiture peut par exemple changer automatiquement son propriétaire. 
 
@@ -61,8 +62,8 @@ Pour illustrer le potentiel disruptif de la technologie Blockchain, nous présen
 
 Voici donc quelques secteurs concernés :
 
-![blockchain](/Images/Screen Shot 2018-03-19 at 20.13.06.png/){:width="30%"}
-![blockchain](/Images/Screen Shot 2018-03-19 at 20.13.59.png/){:width="30%"}
+![blockchain](/Images/screenshot1.png/)
+![blockchain](/Images/screenshot2.png/)
 
 ￼
 
