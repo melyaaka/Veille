@@ -10,7 +10,7 @@ Ce terme désigne des blockchains qui essayent de résoudre les problèmes renco
 
 Toute blockchain qui réussira à résoudre ces problème pourra être dénommée une blockchain de 3ème génération. Il est certain que cela nécessitera de l’innovation et donc une évolution de la technologie blockchain. L’une des pistes de recherche concerne les protocols de consensus : Proof of work / Proof of stake / Delegated Proof of stake …
 
-Ce terme est aussi étroitement lié au <strong>Dapps<strong> ou decentralised applications. Ce sont des applications exécutées sur la blockchain en utilisant des smart contracts et vont donc un pas plus loin que les smart contracts.  
+Ce terme est aussi étroitement lié au <strong>Dapps</strong> ou decentralised applications. Ce sont des applications exécutées sur la blockchain en utilisant des smart contracts et vont donc un pas plus loin que les smart contracts.  
 Naturellement, pour qu’une blockchain puisse faire tourner des dapps, il faut qu’elle puisse résoudre les problèmes énoncés plus haut. Faire fonctionner des dapps nécessite une grande vitesse de transactions, et de supporter un grand nombre d’utilisateurs, ce qui n’est pas le cas aujourd’hui pour Ethereum qui traite une dizaines de transactions par seconde. 
   
 Le problème est similaire que celui rencontré par le Web 2.0 quelques années auparavant. Dans l’ère du Web 1.0, les utilisateurs pouvaient consulter des sites et voir les informations mais de manière passive. Le Web 2.0 permet la collaboration entre utilisateurs et la création de contenu. Le problème rencontré a été de gérer la scalabilité et l’explosion de données générées par tout ces utilisateurs.  
@@ -31,6 +31,8 @@ Comme n’importe quelle autre application, les dapps possèdent une interface f
 * <strong>Brave</strong>: Projet de navigateur web qui repense la notion de publicité. Quelques 60% du temps de chargement d’une page web revient aux pubs. Brave bloque les publicités et les trakers par défaut et promet d’être 2 à 8 fois plus rapide que les navigateurs existants. Il permet aux utilisateurs d’économiser du temps et de l’argent (forfait data économisé sur les pubs). Quelle est donc la valeur économique ajoutée ? Les utilisateurs peuvent gagner de l’argent en choisissant de visionner les pubs ! Ils sont payés par des BAT tokens, et peuvent utiliser ces tokens contre des services sur internet ou pour effectuer des micro-paiements pour encourager leurs créateurs de contenu préférés
 * <strong>Steem</strong> : Une plateforme qui récompense les créateurs de contenu. C’est un réseau social construit sur une blockchain 
 * <strong>MadeSafeCoin</strong> : Location d’espace disque libre 
+
+![blockchain](/Images/Picture10.png/)
 ￼
 Comme on le remarque, les possibilités sont illimitées. 
 
