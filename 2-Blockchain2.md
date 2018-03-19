@@ -62,8 +62,8 @@ Pour illustrer le potentiel disruptif de la technologie Blockchain, nous présen
 
 Voici donc quelques secteurs concernés :
 
-![blockchain](/Images/screenshot1.png/)
-![blockchain](/Images/screenshot2.png/)
+![blockchain](/Images/screenshot1/)
+![blockchain](/Images/screenshot2/)
 
 ￼
 
