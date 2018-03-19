@@ -3,7 +3,7 @@ layout: page
 title: Introduction
 ---
 
-La technologie blockchain est une technologie qui fait beaucoup parler d’elle. Si l’on devait la situer sur un “cycle du hype”, elle doit se positionner sur “le pic des attentes exagérées”. La plupart des gens qui s’intéressent un minimum à la technologie ont déjà entendu parlé de Blockchain, ou de Bitcoin tout du moins. 
+La technologie blockchain est une technologie qui fait beaucoup parler d’elle. Si l’on devait la situer sur un “cycle du hype”, elle doit se positionner sur “le pic des attentes exagérées”. La plupart des gens qui s’intéressent un minimum au domaine de la technologie ont déjà entendu parlé de Blockchain, ou de Bitcoin tout du moins. 
 L’engouement que connait la technologie est immense, non sans raison car la technologie a un énorme potentiel dont certains disent qu’il est aussi important que celui de l’avénement d’Internet. 
 
 La technologie de Blockchain est aussi un sujet évoluant extrêmement vite, même par des critères technologiques. Il est difficile d’en suivre l’évolution. La veille technologique est une technique très utile pour rester à jour avec ses évolutions. Ce site web est le résultat de ma veille technologique sur le sujet. 
