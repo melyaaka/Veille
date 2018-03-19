@@ -1,3 +1,8 @@
+---
+layout: post
+title: DAG
+---
+
 ## Microtransactions : 
 
 L’une des promesses de la blockchain a été de permettre les microtransactions. ie des transactions beaucoup plus fréquentes et de très faible valeur. A ce jour, la technologie a échoué à délivrer cette promesse.  
@@ -74,35 +79,5 @@ Exemples d’entreprises travaillant sur la technologie DAG :
 
 * <strong>Iota</strong> : Objectif d’offrir des transactions gratuites entre plusieurs machines IoT, et de permettre les transactions sans intervention humaine.  
 * <strong>Nano</strong> : Cryptomonnaie permettant des transactions sans frais et microtransactions en utilisant une architecture block-lattice (chaque utilisateur possède sa propre blockchain). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
