@@ -1,10 +1,13 @@
-# Lanyon
+# Introduction
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+[video](https://www.youtube.com/watch?v=G3psxs3gyf8)
+La technologie blockchain est une technologie qui fait beaucoup parler d’elle. Si l’on devait la situer sur un “cycle du hype”, elle doit se positionner sur “le pic des attentes exagérées”. La plupart des gens qui s’intéressent un minimum à la technologie ont déjà entendu parlé de Blockchain, ou de Bitcoin tout du moins. 
+L’engouement que connait la technologie est immense, non sans raison car la technologie a un énorme potentiel dont certains disent qu’il est aussi important que celui de l’avénement d’Internet. 
+La technologie de Blockchain est aussi un sujet évoluant extrêmement vite, même par des critères technologiques. Il est difficile d’en suivre l’évolution. La veille technologique est une technique très utile pour rester à jour avec ses évolutions. Ce site web est le résultat de ma veille technologique sur le sujet. 
+Nous commençons par la définition de la blockchain (1.0) avant d’explorer la blockchain 2.0 et 3.0 
+Il a été difficile de trouver un consensus sur quelques définitions. Quelques personnes considèrent par exemple que la blockchain 3.0 désigne une technologie qui résout les limitations de la blockchain 1.0 à savoir la vitesse, la scalabilité et la facilité de développement (actuellement effectuée par des Forks). D’autres personnes dénomment blockchain 3.0 une toute autre technologie connue sous le nom de DAG (directed acyclic graph). C’est pour cette raison que nous abordons cette technologie concurrente vers la fin. 
 
-![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
-![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
-
+![blockchain](/Images/blockchain.jpg)
 
 ## Contents
 
