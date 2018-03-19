@@ -3,8 +3,6 @@ layout: page
 title: Introduction
 ---
 
-# Introduction
-
 La technologie blockchain est une technologie qui fait beaucoup parler d’elle. Si l’on devait la situer sur un “cycle du hype”, elle doit se positionner sur “le pic des attentes exagérées”. La plupart des gens qui s’intéressent un minimum à la technologie ont déjà entendu parlé de Blockchain, ou de Bitcoin tout du moins. 
 L’engouement que connait la technologie est immense, non sans raison car la technologie a un énorme potentiel dont certains disent qu’il est aussi important que celui de l’avénement d’Internet. 
 
