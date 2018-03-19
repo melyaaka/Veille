@@ -11,7 +11,7 @@ L’engouement que connait la technologie est immense, non sans raison car la te
 
 La technologie de Blockchain est aussi un sujet évoluant extrêmement vite, même par des critères technologiques. Il est difficile d’en suivre l’évolution. La veille technologique est une technique très utile pour rester à jour avec ses évolutions. Ce site web est le résultat de ma veille technologique sur le sujet. 
 
-Nous commençons par la définition de la blockchain (1.0) avant d’explorer la blockchain 2.0 et 3.0 
+Nous commençons par la définition de la blockchain (1.0) avant d’explorer la blockchain 2.0 et 3.0.   
 Il a été difficile de trouver un consensus sur quelques définitions. Quelques personnes considèrent par exemple que la blockchain 3.0 désigne une technologie qui résout les limitations de la blockchain 1.0 à savoir la vitesse, la scalabilité et la facilité de développement (actuellement effectuée par des Forks). D’autres personnes dénomment blockchain 3.0 une toute autre technologie connue sous le nom de DAG (directed acyclic graph). C’est pour cette raison que nous abordons cette technologie concurrente vers la fin. 
 
 ![blockchain](/Images/blockchain.jpg)
