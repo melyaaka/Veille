@@ -34,6 +34,7 @@ Comme n’importe quelle autre application, les dapps possèdent une interface f
 
 ![blockchain](/Images/Picture10.png/)
 ￼
+
 Comme on le remarque, les possibilités sont illimitées. 
 
 ### Comment nait une Dapp ? 
