@@ -1,3 +1,8 @@
+---
+layout: page
+title: Introduction
+---
+
 # Introduction
 
 [video](https://www.youtube.com/watch?v=G3psxs3gyf8)
