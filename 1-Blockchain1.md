@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Blockchain 1.0
 ---
 
