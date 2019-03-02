@@ -16,7 +16,7 @@ En deux mots, la blockchain désigne un <strong>registre distribué</strong>.
 Un peu comme le registre d’une banque où celle-ci garde une copie des soldes de tout les comptes ainsi que leurs transactions,
 la blockchain est un registre contenant toutes les transactions ayant été effectué et ce depuis la toute première transaction, à la différence près que ce registre est <strong>décentralisé</strong>. Cad que celui-ci est public et chaque utilisateur en possède une copie. 
 
-![blockchain](/Images/Picture1.png/)
+![blockchain](/Images/Picture1.png?style=centerme)
 
 ![blockchain](/Images/Picture3.png/)
 
